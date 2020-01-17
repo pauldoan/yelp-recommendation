@@ -1,0 +1,19 @@
+########## REQUIREMENTS ###########
+
+We chose to use the Python programming language for this study. Some packages are not in the standard library and need to be installed first in order to launch our recommender engines:
+
+
+- Pandas, a Data Analysis Library: https://pandas.pydata.org/
+
+- Numpy, a package for scientific computing: https://numpy.org/
+
+- Matplotlib, a 2D plotting library: https://matplotlib.org/
+
+- Sklearn, a Machine Learning library: https://scikit-learn.org/stable/
+
+- seaborn, a data visualization library: https://seaborn.pydata.org
+
+- scipy, a package for mathematics, science and engineering: https://www.scipy.org
+
+- Keras, a Python deep learning library: https://keras.io
+
